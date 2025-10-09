@@ -1,6 +1,12 @@
-# probabilistic_mpm
+# Probabilistic mineral prospectivity modelling with TAGI, BNNs, and MC Dropout
 
-## Data availability 
-Due to their large size, the data files are not stored in this GitHub repository. The data is hosted on Google Drive.
+This repository contains the code and resources for the article "Probabilistic mineral prospectivity modelling with tractable approximate Gaussian inference"
 
-  1. Please download the data.zip folder from the following Google Drive link 
+# Installation and setup
+
+To reproduce the results presented in the paper, please follow these steps:
+
+  1. We used Git LFS to store the data cube we used.
+       * Download and install Git LFS from the official website: https://git-lfs.github.com
+       * After installing, run the following command in the terminal to initialize Git LFS:
+          git lfs install
