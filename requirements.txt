@@ -1,6 +1,32 @@
-## Machine learning libraries
-  * numpy
-  * pandas
-  * scikit-learn
-  * torch
+==========================================
+Core Data Science & Machine Learning
+==========================================
+numpy
+pandas
+scikit-learn
+torch
 
+==========================================
+Geospatial Data Handling
+==========================================
+geopandas
+shapely
+
+==========================================
+Data Augmentation
+==========================================
+imbalanced-learn
+
+==========================================
+Bayesian Deep Learning
+==========================================
+bayesian-torch
+pytagi
+
+==========================================
+Utilities
+==========================================
+matplotlib
+tqdm
+psutil
+fire
