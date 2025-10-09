@@ -16,3 +16,5 @@ To reproduce the results presented in the paper, please follow these steps:
     
   3. Install dependencies
        * Install all the required Python libraries using the provided ```requirements.txt``` file.
+    
+     ```pip install -r requirements.txt```
