@@ -6,7 +6,7 @@ This repository contains the code and resources for the article "Probabilistic m
 
 To reproduce the results presented in the paper, please follow these steps:
 
-  1. We used Git LFS to store the data cube we used.
+  1. We used Git LFS to store the data used in this study.
        * Download and install Git LFS from the official website: https://git-lfs.github.com
        * After installing, run the following command in the terminal to initialize Git LFS:
          ```git lfs install```
