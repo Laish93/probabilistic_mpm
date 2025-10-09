@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+torch
+geopandas
+shapely
+imbalanced-learn
+bayesian-torch
+pytagi
+matplotlib
+tqdm
+psutil
+fire
