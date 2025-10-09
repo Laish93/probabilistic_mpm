@@ -19,10 +19,10 @@ To reproduce the results presented in the paper, please follow these steps:
   3. Install dependencies
        * Install all the required Python libraries listed in the provided ```requirements.txt``` file.
     
-  4. Unzip the Data
+  4. Unzip the data
        * This will create the ```data/``` directory with all the necessary ```.gpkg``` and ```.pt``` files.
     
-       Note: The ```data.zip``` file contains both the raw ```datacube_mpm.gpkg``` file and the final preprocessed PyTorch tensor files. Therefore, running the first script ```0 - prepare_dataset.ipynb``` is optional. If                you wish to skip it, please use following pre-processed data
+       Note: The ```data.zip``` file contains both the raw ```datacube_mpm.gpkg``` file and the final preprocessed PyTorch tensor files. Therefore, running the first script ```0 - prepare_dataset.ipynb``` is optional. If                you wish to skip it, please use the following pre-processed data
 
      
      ```data/dataset_train.pt```
