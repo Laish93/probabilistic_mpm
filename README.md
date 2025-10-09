@@ -28,7 +28,7 @@ Below are the main Python libraries used in this project:
 | Core | numpy | [https://pypi.org/project/numpy](https://pypi.org/project/numpy) |
 | Core | pandas | [https://pypi.org/project/pandas](https://pypi.org/project/pandas) |
 | Core | scikit-learn | [https://pypi.org/project/scikit-learn](https://pypi.org/project/scikit-learn) |
-| Core | torch | [https://pypi.org/project/torch]([https://pypi.org/project/torch](https://pytorch.org/get-started/locally/)) |
+| Core | torch | [https://pytorch.org/get-started/locally/#windows-prerequisites](https://pytorch.org/get-started/locally/#windows-prerequisites) |
 | Geospatial | geopandas | [https://pypi.org/project/geopandas](https://pypi.org/project/geopandas) |
 | Geospatial | shapely | [https://pypi.org/project/shapely](https://pypi.org/project/shapely) |
 | Data augmentation | imbalanced-learn | [https://pypi.org/project/imbalanced-learn](https://pypi.org/project/imbalanced-learn) |
