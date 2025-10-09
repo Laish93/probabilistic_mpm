@@ -2,7 +2,7 @@
 
 This repository contains the code and resources for the article "Probabilistic mineral prospectivity modelling with tractable approximate Gaussian inference."
 
-# Installation and setup
+# Installation
 
 To reproduce the results presented in the paper, please follow these steps:
 
