@@ -1,4 +1,4 @@
-# Bayesian_mpm
+# probabilistic_mpm
 
 ## Data availability 
 Due to their large size, the data files are not stored in this GitHub repository. The data is hosted on Google Drive.
