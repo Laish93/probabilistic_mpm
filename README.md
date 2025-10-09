@@ -9,10 +9,10 @@ To reproduce the results presented in the paper, please follow these steps:
   1. We used Git LFS to store the data cube we used.
        * Download and install Git LFS from the official website: https://git-lfs.github.com
        * After installing, run the following command in the terminal to initialize Git LFS:
-         '''git lfs install'''
+         ```git lfs install```
          
   2. Clone the repository
-       * Clone this repository, and Git LFS will automatically detect the pointer file and download the large '''data.zip''' file during this process. This may take some time.
+       * Clone this repository, and Git LFS will automatically detect the pointer file and download the large ```data.zip``` file during this process. This may take some time.
     
   3. Install dependencies
-       * Install all the required Python libraries using the provided '''requirements.txt''' file.
+       * Install all the required Python libraries using the provided ```requirements.txt``` file.
