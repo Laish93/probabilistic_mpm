@@ -7,24 +7,24 @@ scikit-learn
 torch
 
 ==========================================
-Geospatial Data Handling
+-------- Geospatial data handling --------
 ==========================================
 geopandas
 shapely
 
 ==========================================
-Data Augmentation
+----------- Data augmentation ------------
 ==========================================
 imbalanced-learn
 
 ==========================================
-Bayesian Deep Learning
+--------- Bayesian deep learning ---------
 ==========================================
 bayesian-torch
 pytagi
 
 ==========================================
-Utilities
+--------------- Utilities ----------------
 ==========================================
 matplotlib
 tqdm
