@@ -33,7 +33,7 @@ Below are the main Python libraries used in this project:
 | Geospatial | shapely | [https://pypi.org/project/shapely](https://pypi.org/project/shapely) |
 | Data augmentation | imbalanced-learn | [https://pypi.org/project/imbalanced-learn](https://pypi.org/project/imbalanced-learn) |
 | Bayesian deep learning | bayesian-torch | [https://pypi.org/project/bayesian-torch](https://pypi.org/project/bayesian-torch) |
-| Bayesian deep learning | pytagi | [https://github.com/lhnguyen102/cuTAGI]([https://pypi.org/project/pytagi](https://github.com/lhnguyen102/cuTAGI)) |
+| Bayesian deep learning | pytagi | [https://github.com/lhnguyen102/cuTAGI](https://pypi.org/project/pytagi](https://github.com/lhnguyen102/cuTAGI)) |
 | Utilities | matplotlib | [https://pypi.org/project/matplotlib](https://pypi.org/project/matplotlib) |
 | Utilities | tqdm | [https://pypi.org/project/tqdm](https://pypi.org/project/tqdm) |
 | Utilities | psutil | [https://pypi.org/project/psutil](https://pypi.org/project/psutil) |
