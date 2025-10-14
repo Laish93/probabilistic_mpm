@@ -25,10 +25,14 @@ To reproduce the results presented in the paper, please follow these steps:
        **Optional:** The ```data.zip``` file contains both the raw ```datacube_mpm.gpkg``` file and the final preprocessed PyTorch tensor files. Therefore, running the first script ```0 - prepare_dataset.ipynb``` is optional. If you wish to skip it, please use the following pre-processed data to run the Bayesian mpm models directly.
 
      
-     ```data/dataset_train.pt```\\
+     ```data/dataset_train.pt```
+     
      ```data/mineral_train.pt```
+     
      ```data/dataset_test.pt```
+     
      ```data/mineral_test.pt```
+     
      ```data/scaler.pkl```
 
 
