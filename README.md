@@ -12,7 +12,7 @@ To reproduce the results presented in the paper, please follow these steps:
          ```git lfs install```
          
   2. Clone the repository
-       * Clone this repository, and Git LFS will automatically detect the pointer file and download the datacube which is ```data.zip``` file during this process. This may take some time.
+       * Clone this repository, and Git LFS will automatically detect the pointer file and download the datacube which is ```data.zip``` file during this process. This will probably take some times.
     
          ```git clone https://github.com/Laish93/probabilistic_mpm.git```
     
