@@ -1,4 +1,4 @@
-# Probabilistic mineral prospectivity modelling with TAGI, BNNs, and MC dropout
+# Probabilistic mineral prospectivity modelling with TAGI, BNN, and MC dropout
 
 This repository contains the code and resources for the article "Tractable approximate Gaussian inference for interpretable mineral prospectivity modelling"
 
